@@ -1,0 +1,5 @@
+Link @react-native-async-storage/async-storage for IOS
+link react-native link @react-native-community/checkbox
+react-native link @react-native-community/datetimepicker
+
+TODO:

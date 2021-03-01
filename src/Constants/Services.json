@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 22,
+      "code": "Blowouts"
+    },
+    {
+      "id": 25,
+      "code": "Fashion"
+    },
+    {
+      "id": 21,
+      "code": "Haircuts"
+    },
+    {
+      "id": 27,
+      "code": "Med Spa / Skin Services"
+    },
+    {
+      "id": 24,
+      "code": "Photographic/Film"
+    },
+    {
+      "id": 23,
+      "code": "Prom"
+    },
+    {
+      "id": 26,
+      "code": "Wedding"
+    }
+  ]
+}
